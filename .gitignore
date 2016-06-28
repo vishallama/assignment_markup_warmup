@@ -4,3 +4,6 @@
 # Webstorm folder
 .idea/
 
+# Internal Sass files
+.sass*
+
