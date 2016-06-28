@@ -1,0 +1,6 @@
+# Swap files
+*.swp
+
+# Webstorm folder
+.idea/
+
